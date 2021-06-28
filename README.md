@@ -1,5 +1,5 @@
 # PowerFactory-Grid-Forming
-This repository contains the PowerFactory models of Grid-Forming and Grid-following model, as well as a 4-bus benchmark system, which is used in our ISGT paper.
+This repository contains the PowerFactory models of Grid-Forming and Grid-Following model implemented in a 4-bus benchmark system, which is used in our ISGT paper.
 
 These two files correspond to two aspects we focused on grid-forming control: system inertia and system strength.
 
