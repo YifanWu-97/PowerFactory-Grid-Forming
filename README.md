@@ -5,7 +5,9 @@ These two files correspond to two aspects we focused on grid-forming control: sy
 
 Each one of the files is a folder in PowerFactory, which contains three models: the synchronous machine-only model, the grid-following model, and the grid-forming model.
 
-If you have any questions or advice, please contact us: yifan.wu@sydney.edu.au
+The modelling process and theoretical explanations can be found in the paper, which I will put the link here shortly.
+
+If you have any questions or advice, please contact us: yifan.wu@sydney.edu.au.
 
 Hope it helps.
 
