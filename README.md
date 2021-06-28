@@ -7,6 +7,8 @@ Each one of the files is a folder in PowerFactory, which contains three models: 
 
 The modelling process and theoretical explanations can be found in the paper, which I will put the link here shortly.
 
+We do require publications to explicitly acknowledge the adoption of these models by citing the above-mentioned papers.
+
 If you have any questions or advice, please contact us: yifan.wu@sydney.edu.au.
 
 Hope it helps.
