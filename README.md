@@ -1,5 +1,6 @@
 # PowerFactory-Grid-Forming
-This repository contains the PowerFactory models of Grid-Forming and Grid-Following model implemented in a 4-bus benchmark system, which is used in our ISGT paper: Y. Wu, G. Verbič and A. S. Ahmadyar, "Modelling of Grid-forming Inverters for Power System Applications in DIgSILENT PowerFactory".
+This repository contains the PowerFactory models of Grid-Forming and Grid-Following model implemented in a 4-bus benchmark system, which is used in our ISGT paper:
+Y. Wu, G. Verbič and A. S. Ahmadyar, "Modelling of Grid-forming Inverters for Power System Applications in DIgSILENT PowerFactory".
 
 These two files correspond to two aspects we focused on grid-forming control: system inertia and system strength.
 
